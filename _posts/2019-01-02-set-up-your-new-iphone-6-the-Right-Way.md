@@ -3,7 +3,7 @@ layout: post
 title: "Admin Diagram"
 description: "A project"
 date: 2026-06-03
-feature_image: images/iphone-6.jpg
+feature_image: images/iphone-6.jpg.jpg
 tags: [tips, design]
 ---
 
