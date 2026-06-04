@@ -2,7 +2,7 @@
 layout: post
 title: "Infographic Project"
 description: "Infographic on a infamous data breach"
-date: 2019-01-03
+date: 2026-06-03
 feature_image: images/mountain.jpg
 tags: [tips, work]
 ---
